@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nyooor.github.io/Wrq/sitemap.Wrq.gz
